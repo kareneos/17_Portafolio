@@ -1,0 +1,76 @@
+/*GENERAL*/
+button{
+	background-color: #FDBA43;
+	padding: 3% 7%;
+	margin-top: 10%;
+	border: none;
+	border-radius: 5%;
+	box-shadow: 0 2px #666;
+}
+button:hover {
+	background-color: #FF7E25;
+}
+a{
+	text-decoration: none;
+}
+*{
+	font-family: 'Roboto', sans-serif;
+}
+img{
+	width: 300px;
+	height: 300px;
+}
+/*HEADER*/
+header{
+	background-color: #FCCE09;
+	height: 500px;
+}
+header *, button *, footer *{
+	color: white;
+}
+nav{
+	padding-top: 3%;
+}
+li{
+	display: inline;
+	padding: 5%;
+}
+li:hover{
+    background-color: #FCBB0E;
+    border-radius: 15%
+}
+
+#laboratoria{
+	padding-top: 13%;
+}
+/*SECTION*/
+section{
+	background-color: #EAEBE8;
+}
+.white{
+	background-color: white;
+	margin:5%;
+	padding:5%;
+}
+.white img{
+	margin:5% 9%;
+}
+section button{
+	margin-top:4%;
+	margin-left: 35%;
+}
+p{
+	text-align: justify;
+	font-size: 10px;
+}
+
+/*FOOTER*/
+footer{
+	background-color: #262624;
+}
+footer *{
+	padding: 1%;
+}
+.line{
+	border-left: 1px solid white;
+}
